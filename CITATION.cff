@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Project template for data models developed within the CE-RISE Horizon Europe project
+type: software
+doi: xxx_to_be_obtained_xxx
+authors:
+  - given-names: Riccardo
+    family-names: Boero
+    email: ribo@nilu.no
+    orcid: 'https://orcid.org/0000-0002-7468-9096'
+    affiliation: NILU
+identifiers:
+  - type: doi
+    value: xxx_to_be_obtained_xxx
+    description: This DOI represents all software versions.
+repository-code: 'https://codeberg.org/CE-RISE_models/template-data-model'
+url: 'https://ce-rise-models.codeberg.page/template-data-model/'
+abstract: >-
+  Project template for data models developed within the CE-RISE Horizon Europe project.
+keywords:
+  - CE-RISE
+  - Data Model
+  - Ontology
+  - Open Source
+  - Open Science
+  - Digital Product Passport
+license: CC-BY-NC-4.0

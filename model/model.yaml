@@ -1,0 +1,20 @@
+id: https://ce-rise-models.codeberg.page/template-data-model/
+name: template_data_model
+prefixes:
+  linkml: https://w3id.org/linkml/
+imports:
+  - linkml:types
+default_range: string
+classes:
+  ExampleClass:
+    attributes:
+      example_attribute:
+        range: string
+        description: Example field
+slots:
+  label:
+    range: string
+    description: Human-readable label
+  sqlIdentifier:
+    range: string
+    description: Machine-friendly field name for databases
