@@ -1,10 +1,10 @@
 # Changelog
 
-All notable changes to the CE-RISE RE-XXX Data Model will be documented in this file.
+All notable changes to the CE-RISE Product System Data Model will be documented in this file.
 
-## [0.0.1] - unreleased
+## [0.0.1] - 2026-08-27
 
 ### Added
-- Initial project structure and repository setup from template: https://ce-rise-models.codeberg.page/template-data-model/
-- Initial data model structure for XXXX
-- Artifacts built and deployed to pages
+- Initial CE-RISE Product System Data Model for reusable life cycle inventory product systems
+- BONSai- and OM 2-aligned activities, flows, flow objects, reference flows, and quantities
+- Optional uncertainty, metrological traceability, and data-quality integration

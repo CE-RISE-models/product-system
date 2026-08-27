@@ -4,3 +4,8 @@ generated/*
 !generated/.gitkeep
 *.log
 .DS_Store
+
+# Local co-authoring material
+/Data Structure Dictionaries.xlsx
+/differences_from_xcl_specs.md
+/.gitignore
